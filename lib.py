@@ -4,6 +4,7 @@ import os
 LOGGER = logging.getLogger()
 from constant import DOSSIER_DATA
 
+# Ajout d'un commentaire pour actualiser mon code
 
 liste = []
 
